@@ -1,1 +1,2 @@
 wikipedia-api==0.8.1
+stackapi==0.3.1
